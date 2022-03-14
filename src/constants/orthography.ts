@@ -38,7 +38,7 @@ export const ORTHOGRAPHY = [
   'ь',
   'э',   
   'ю',    
-  'я' 
+  'я',
 ]
 
 if (CONFIG.normalization) {

@@ -1188,7 +1188,7 @@ export const WORDS = [
   'шукке',
   'айшет',
   'диана',
-  'сиёно'
+  'сиёно',
 ]
 
 if (CONFIG.normalization) {
