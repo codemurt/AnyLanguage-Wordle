@@ -1,0 +1,53 @@
+{
+    "about": "Об этой игре",
+    "enterKey": "Enter",
+    "deleteKey": "Delete",
+    "notEnoughLetters": "Недостаточно символов",
+    "wordNotFound": "Слово не найдено",
+    "solution": "Ответом было: {{solution}}",
+    "gameCopied": "Игра скопирована в буфер обмена",
+    "howToPlay": "Как играть",
+    "instructions": "Угадай слово за {{tries}} попыток. После каждого предположения цвет плиток будет меняться, чтобы показать, насколько близко ваше предположение было к слову.",
+    "pickYourLanguage": "Выберите язык",
+    "correctSpotInstructions": "The letter W is in the word and in the correct spot.",
+    "wrongSpotInstructions": "The letter L is in the word but in the wrong spot.",
+    "notInWordInstructions": "The letter U is not in the word in any spot.",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "Статистика",
+    "totalTries": "Всего попыток",
+    "successRate": "Показатель успеха",
+    "currentStreak": "Текущая серия",
+    "bestStreak": "Лучшая серия",
+    "newWordCountdown": "Новое слово через",
+    "share": "Поделиться",
+    "firstExampleWord": [
+        "W",
+        "E",
+        "A",
+        "R",
+        "Y"
+    ],
+    "secondExampleWord": [
+        "P",
+        "I",
+        "L",
+        "O",
+        "T"
+    ],
+    "thirdExampleWord": [
+        "V",
+        "A",
+        "G",
+        "U",
+        "E"
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "The words for this game were sourced from <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "You can also play the original  <1>here</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "ru": "Russian",
+    }
+}
