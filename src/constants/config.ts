@@ -3,9 +3,9 @@ export const CONFIG = {
   language: 'Udmurt', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'codemurt', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
-  wordListSource: 'YourDictionarySource', // Describe the source material for your words here
-  wordListSourceLink: 'YourDictionaryLink', // Put a link to the source material for your words here
+  authorWebsite: 'https://github.com/codemurt', // Put a link to your website or social media here
+  wordListSource: 'uniparser-grammar-udm by timarkh', // Describe the source material for your words here
+  wordListSourceLink: 'https://github.com/timarkh/uniparser-grammar-udm', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
